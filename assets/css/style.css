@@ -164,10 +164,12 @@ body {
 }
 
 .btn--gray {
-    margin-top: 25px;
+    margin-top: 100px;
+    margin-bottom: 25px;
     background-color: #445361;
     border: 1px transparent;
     border-radius: 20px;
+    color: white;
 }
 
 .btn--gray:active,
